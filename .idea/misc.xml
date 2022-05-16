@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Nicolas Polo/AndroidStudioProjects/app/app/src/main/res/drawable/corners.xml" value="0.331" />
+        <entry key="..\:/Users/Nicolas Polo/AndroidStudioProjects/app/app/src/main/res/drawable/corners2.xml" value="0.331" />
+        <entry key="..\:/Users/Nicolas Polo/AndroidStudioProjects/app/app/src/main/res/drawable/gradient_background.xml" value="0.331" />
+        <entry key="..\:/Users/Nicolas Polo/AndroidStudioProjects/app/app/src/main/res/drawable/ic_baseline_local_phone_24.xml" value="0.275" />
+        <entry key="..\:/Users/Nicolas Polo/AndroidStudioProjects/app/app/src/main/res/drawable/mail.xml" value="0.275" />
+        <entry key="..\:/Users/Nicolas Polo/AndroidStudioProjects/app/app/src/main/res/drawable/pas.xml" value="0.275" />
+        <entry key="..\:/Users/Nicolas Polo/AndroidStudioProjects/app/app/src/main/res/drawable/people.xml" value="0.275" />
+        <entry key="..\:/Users/Nicolas Polo/AndroidStudioProjects/app/app/src/main/res/drawable/style.xml" value="0.275" />
+        <entry key="..\:/Users/Nicolas Polo/AndroidStudioProjects/app/app/src/main/res/drawable/user.xml" value="0.331" />
+        <entry key="..\:/Users/Nicolas Polo/AndroidStudioProjects/app/app/src/main/res/drawable/yes.xml" value="0.331" />
+        <entry key="..\:/Users/Nicolas Polo/AndroidStudioProjects/app/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Nicolas Polo/AndroidStudioProjects/app/app/src/main/res/layout/activity_principal.xml" value="0.3333333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Delivery App</string>
+    <string name="editTextTextPersonName">User</string>
+    <string name="editTextTextPassword2">Password</string>
+    <string name="button2">Button</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="telefono">Telefono</string>
+    <string name="correo">Correo</string>
+    <string name="loggin">LOGIN</string>
+    <string name="user_loggin">Ingresar</string>
+</resources>
